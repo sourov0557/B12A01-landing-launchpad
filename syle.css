@@ -1,0 +1,59 @@
+.open-sans-normal{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 20px 30px;
+}
+nav ul, li{
+    list-style: none;
+    text-align: end;
+    margin-right: 20px;
+   
+}
+nav h4{
+    color: blue;
+}
+
+nav li a{
+    text-decoration: none;
+    font-size: 15px;
+}
+.button-color{
+    color: blue;
+}
+.btn-primary{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+.banner-content h2{
+    text-align: center;
+}
+.btnc{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+}
+.btnw{
+    background-color: blue;
+    border-radius: 5px;
+}
+.background-image{
+    background-image: url(./ui/banner.png);
+    background-size: contain;
+    b
+}
